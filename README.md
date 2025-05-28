@@ -37,4 +37,10 @@ bank.load_from_csv('accounts.csv') # Load from CSV, please place the csv file in
 ```
 ![Alt text](pictures/screenshot_4.jpg)
 
+## Testing file
+For executing the test case in the test_bank_system.py, you can open a new command prompt and change the directory to the 2 python script file, and enter the following command. It will run the test case and showing the result of each function test case
+```
+python test_bank_system.py
+```
+![Alt text](pictures/screenshot_5.jpg)
 
